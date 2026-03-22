@@ -2,7 +2,7 @@
 
 A simple and interactive **Tic Tac Toe** game built using HTML, CSS, and JavaScript. This project demonstrates basic game logic, DOM manipulation, and user interaction in a clean and responsive interface.
 
-Features
+Features 
 
  Two-player mode (Player X vs Player O)
  Real-time game updates
